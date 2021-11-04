@@ -2,6 +2,5 @@
 My fairly simple 3ds custom home menu
 ##
 ### Shtuff:
-Spinning cursor (thanks Sven64!)
-
-Custom sleep screen
+* Spinning cursor (thanks Sven64!)
+* Custom sleep screen
